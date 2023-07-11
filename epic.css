@@ -1,0 +1,83 @@
+body{
+    background-color:  black;
+    margin: 0px;
+}
+.navbar{
+    padding: 15px;
+    background-color: rgb(34, 33, 33);
+    padding-left: 60px;
+    
+}
+.navbar a{
+    color: rgb(228, 230, 231);
+    text-decoration: none;
+    padding: 15px 0px 15px 20px;
+    font-size: 11px;
+    font-family: sans-serif,arial;
+
+}
+.navbar a:hover{
+    color: aliceblue;
+    
+     border-bottom: 5px groove rgb(26, 118, 246);
+}
+
+.navbar span{
+    padding-left: 900px;
+    
+}
+.navbar1{
+    padding: 15px;
+    background-color: black;
+    padding-left: 180px;
+}
+.navbar1 input{
+    border-radius: 20px ;
+    border: 0px;
+    padding: 10px 0px 10px 30px;
+    background-color: rgb(34, 33, 33);
+    width: 200px;
+    color: white;
+}
+.navbar1 span a{
+    color: aliceblue;
+}
+.navbar1 a{
+    color: rgb(69, 67, 67);
+    text-decoration: none;
+    padding: 15px;
+    font-size: 13px;
+    font-family: sans-serif,arial;
+}
+.navbar1 a:hover{
+    color: aliceblue;
+}
+.marq{
+    margin-left: 180px;
+    margin-right: 350px;
+    margin-top: 20px;
+}
+.marq marquee img{
+    border-radius: 20px;
+}
+#side{
+    margin-left: 1200px;
+    margin-top: -530px;
+    display: block;
+    color: aliceblue;
+  
+}
+#side img{
+    border-radius: 8px;
+    margin-bottom: 10px;
+}
+p{
+    display: block;
+    color: aliceblue;
+    margin-left: 80px;
+    margin-top: -500px;
+}
+#side img:hover{
+    height: 110px;
+    width: 80px;
+}
